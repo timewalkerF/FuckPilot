@@ -1,6 +1,6 @@
-# MoviePilot
+# FuckPilot
 
-基于 [NAStool](https://github.com/NAStool/nas-tools) 部分代码重新设计，聚焦自动化核心需求，减少问题同时更易于扩展和维护。
+基于 [MoviePilot](https://hub.docker.com/r/jxxghp/moviepilot) 部分代码重新设计，聚焦自动化核心需求，减少问题同时更易于扩展和维护。
 
 # 仅用于学习交流使用，请勿在任何国内平台宣传该项目！
 
